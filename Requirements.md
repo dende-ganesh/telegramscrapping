@@ -1,6 +1,7 @@
 Requirements
 
 1.You need Telegram  Api credentials to use telegram. To do this follow steps below
+
  	i. Sign up for Telegram using any application.
 	ii. Log in to your Telegram core: https://my.telegram.org.
 	iii. Go to 'API development tools' and fill out the form.
