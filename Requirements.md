@@ -8,4 +8,4 @@ Requirements
 	iv. You will get basic addresses as well as the api_id and api_hash parameters required for user authorization.
 
 
-2.Install Telethon by command "pip3 install telethon"
+2.Install Telethon by command "pip3 install telethon".
